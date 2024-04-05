@@ -15,6 +15,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import io.cucumber.java.en.And;
 
 public class TestSteps {
+	
+	/*
 
 	ChromeDriver driver = new ChromeDriver();
 	
@@ -69,5 +71,5 @@ public class TestSteps {
 	    System.out.println("user capture a screenshot of the Wikipedia page");
 	}
 
-	
+	*/
 }
